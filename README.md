@@ -1,16 +1,18 @@
-### Hi there 👋
+### I'm a beginner Developer learning Python and js
 
-<!--
-**RicarrD/RicarrD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+  ![RicarrD's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricarrd&show_icons=true&theme=dracula)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <ul>
+      <li>Database with SQL</li>
+      <li>Experience with git</li>
+  </ul>
+  <div>
+    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
+    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
+    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
+    <img height='50em' src='https://cdn.worldvectorlogo.com/logos/css-3.svg'>
+  </div>
+
+
+ 
