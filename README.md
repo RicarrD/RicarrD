@@ -6,13 +6,12 @@
   <ul>
       <li>Database with SQL</li>
       <li>Experience with Git</li>
-      <li>Experience with Node</li>
-      <li>Experience with React</li>
   </ul>
   <div>
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
     <img height='50em' src='https://cdn.worldvectorlogo.com/logos/css-3.svg'>
+    <img height='50em' src='https://cdn.worldvectorlogo.com/logos/python-3.svg'>
   </div>
 
 
