@@ -1,10 +1,10 @@
-### I'm a beginner Developer learning Python and js
+### I'm a Developer learning Python and JS
 
 
   ![RicarrD's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricarrd&show_icons=true&theme=dracula)
 
   <ul>
-      <li>Database with SQL</li>
+      <li>Database with MySQL</li>
       <li>Experience with Git</li>
   </ul>
   <div>
